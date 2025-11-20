@@ -23,7 +23,7 @@ class script(object):
 <b>📢 Channel :</b> <a href='https://t.me/BotX_Universe_Hub'>BotX Updates</a>
 <b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>
 
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+<b>♻️ Bot Made By :</b> @BotX_Universe_Hub"""
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
