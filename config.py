@@ -14,17 +14,17 @@ STRING_SESSION = os.environ.get("STRING_SESSION", "")
 
 
 # Log & Force Channel Config
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "-1003375165958")
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1003192487559"))
 
 
 # Mongo DB Database Config
-DATABASE_URL = os.environ.get("DATABASE_URL", "")
+DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://firstvolume130kSYtsumtrPov7SF@cluster0.rz6a30y.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "madflixbotz")
 
 
 # Other Variables Config
-START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg")
+START_PIC = os.environ.get("START_PIC", "https://envs.sh/-jO.jpg")
 
 
 
